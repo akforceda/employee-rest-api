@@ -1,6 +1,6 @@
 # employee-rest-api
 
-## This is an api developed using Nodejs, ExpressJs, Postgre database and deployed on Heroku cloud platform.
+## This is a simple and minimalist api developed using NodeJs, ExpressJs, Postgres database and deployed on Heroku cloud platform.
 
 ### Table of contents
 1. [ env ](#env)
